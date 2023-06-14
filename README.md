@@ -6,4 +6,4 @@ Ryan Maguire
 
 📊 My most recent role was as a Senior R&D Associate at a nature-inspired drug-discovery company where I lead the R&D for an early-stage drug-discovery program. Where I advancend the development of molecules by identifying promising drug candidates based on their physicochemical, pharmacological properties, and target-disease relationships. My role also involves developing pre-clinical experimental designs and managing these streams of work with Contract Research Organizations (CROs). In a more commercial aspect, I perform assessments for disease areas and direct competitors.
 
-💻 I enjoy using Python to streamline and accelerate the entire data processing workflow. From gathering and cleaning data to performing complex analyses and visualizations, Python empowers me to extract meaningful information efficiently.
+💻 I enjoy using Python to streamline and accelerate the entire data processing workflow. From gathering and cleaning data to performing complex analyses and visualizations, Python empowers me to extract meaningful information efficiently. Here are some [examples](https://github.com/Magzlar/Examples) of my work
