@@ -1,9 +1,18 @@
-Ryan Maguire 
 
-👋 Hello, I'm Ryan, a Neuroscience and Pharmacology graduate with a Ph.D. in Health and Medicine 
+Ryan Maguire
 
-🧪 My Ph.D. focussed on assessing the potential of phytocannabinoids in ischemic reperfusion injuries such as stroke. Following my Ph.D. I worked as an Associate Scientist for a pre-clinical contract research organization focussed on quantifying different aspects of ligand-receptor using radioligand binding assays, receptor occupancy studies, and autoradiography. 
+👋 Hello, I'm Ryan, a Neuroscience and Pharmacology graduate with a Ph.D. in Health and Medicine.
 
-📊 My most recent role was as a Senior R&D Associate at a nature-inspired drug-discovery company where I lead the R&D for an early-stage drug-discovery program. Where I advancend the development of molecules by identifying promising drug candidates based on their physicochemical, pharmacological properties, and target-disease relationships. My role also involves developing pre-clinical experimental designs and managing these streams of work with Contract Research Organizations (CROs). In a more commercial aspect, I perform assessments for disease areas and direct competitors.
+🧪 My Ph.D. focused on researching the potential of phytocannabinoids in stroke-related injuries. Afterward, I worked as an Associate Scientist in a pre-clinical contract research organization, studying ligand-receptor interactions.
 
-💻 I enjoy using Python to streamline and accelerate the entire data processing workflow. From gathering and cleaning data to performing complex analyses and visualizations, Python empowers me to extract meaningful information efficiently. Here are some [examples](https://github.com/Magzlar/Examples) of my work
+📊 Recently, I held a role as a Senior R&D Associate at a nature-inspired drug-discovery company. I led the research and development of an early-stage drug-discovery program, identifying promising drug candidates and designing pre-clinical experiments. I also performed assessments for disease areas and competitors.
+
+💻 I enjoy using Python to streamline data processing, conduct analyses, and create visualizations. I'm also interested in exploring Python's applications for IoT. Take a look at some [examples](https://github.com/Magzlar/Examples) of my work!
+
+Let's connect and embark on a journey of scientific exploration and innovation!
+
+
+
+
+
+
