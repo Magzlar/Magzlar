@@ -9,6 +9,8 @@ I am now a healthcare analyst at Global Data, where I provide competitive intell
 
 💻 I enjoy using Python to streamline data extraction, cleaning, and analysis, as well as creating effective visualizations. I'm also interested in exploring Python's applications for IoT. Take a look at some [examples](https://github.com/Magzlar/Examples) of my work!
 
+:alarm_clock: Check out my [website](https://cbd-novel-food-tracker.onrender.com/) for a dashboard that tracks the progress of cannabidiol novel food applcations to the FSA in real-time (webiste might be a bit slow to load as spins down with inactivity)
+
 
 
 
